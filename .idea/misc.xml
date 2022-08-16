@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ut10r/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ut10r/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/src/main/res/layout/fragment_start_order.xml" value="0.1" />
       </map>
     </option>
   </component>
